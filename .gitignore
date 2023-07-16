@@ -1,0 +1,8 @@
+#Virtual environments
+.env*
+/env
+environment*
+environment
+
+#Other folders
+.vscode
